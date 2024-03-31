@@ -1,0 +1,18 @@
+.gallery-item {
+  position: relative;
+}
+
+.gallery-item img {
+  width: 100%;
+  display: block;
+}
+
+.icon-heart-container {
+  position: absolute;
+  bottom: 10px; 
+  right: 10px;
+}
+
+.icon-heart-container svg {
+  fill: red; 
+}

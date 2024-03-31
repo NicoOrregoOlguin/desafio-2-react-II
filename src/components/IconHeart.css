@@ -1,0 +1,11 @@
+
+.icon-heart-container {
+  position: absolute;
+  bottom: 10px;
+  right: 10px; 
+}
+
+.icon-heart-container svg {
+  transition: fill 0.3s ease;
+  cursor: pointer;
+}
